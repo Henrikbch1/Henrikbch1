@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Henrik
 
-**Auszubildender Fachinformatiker für Anwendungsentwicklung (1. Lehrjahr)**
+**Auszubildender Fachinformatiker für Anwendungsentwicklung (2. Lehrjahr)**
 
-Ich entwickle Fullstack-Anwendungen mit Fokus auf **Java/Spring Boot** und **TypeScript/React**. Als **Vorstand & IT-Administrator** eines Angelvereins betreue ich zudem produktive Systeme im Live-Betrieb.
+Ich entwickle Fullstack-Anwendungen mit Fokus auf **Java/Spring Boot** und **TypeScript/React**. Als **Vorstand Mitglied** eines Angelvereins betreue ich zudem produktive Systeme im Live-Betrieb.
 
 ---
 
